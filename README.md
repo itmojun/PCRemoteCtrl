@@ -9,6 +9,7 @@
 1. 直接运行项目中Release文件夹下的PCRemoteCtrl.exe可执行文件，或者自行克隆代码库编译运行（使用Visual C++ 6.0）。注意，本程序会隐藏运行，不显示任何界面，并且会添加开机启动项；
 
 2. 关注“IT魔君”公众号（扫描下方二维码）；
+
     <img src="https://raw.githubusercontent.com/itmojun/remote_control/master/bin/IT%E9%AD%94%E5%90%9B%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="40%" />
 
 3. 在微信公众号中发送“急急如律令”进入远控模式，文本或语音消息都行（PS：发语音消息普通话要标准，声音要清晰，否则系统无法识别）；
