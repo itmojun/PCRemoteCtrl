@@ -30,10 +30,22 @@ DWORD WINAPI MessageBoxThr(LPVOID lpParam);
 
 int main()
 {
+	HANDLE hMutex;
 	char szCmd[301];  //存放远程控制指令
 	HANDLE hBeepThr = NULL;
 	HANDLE hShowTextThr = NULL;
 	HANDLE hMessageBoxThr = NULL;
+
+	//只允许单实例运行
+	hMutex = CreateMutex(NULL, TRUE, "dj_201903061509");
+	
+	if(NULL != hMutex)
+	{
+		if(ERROR_ALREADY_EXISTS == GetLastError())
+		{
+			return 0;
+		}
+	}
 
 	//设置控制台窗口标题
 	//system("title 远程控制任我行 - IT魔君");
