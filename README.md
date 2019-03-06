@@ -10,7 +10,7 @@
 
 2. 关注“IT魔君”公众号（扫描下方二维码）；
 
-    <img src="https://raw.githubusercontent.com/itmojun/remote_control/master/bin/IT%E9%AD%94%E5%90%9B%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="40%" />
+<img src="https://raw.githubusercontent.com/itmojun/static_resources/master/IT%E9%AD%94%E5%90%9B%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81(%E6%9C%80%E5%B0%8F%E5%B0%BA%E5%AF%B8).jpg" width="40%" />
 
 3. 在微信公众号中发送“急急如律令”进入远控模式，文本或语音消息都行（PS：发语音消息普通话要标准，声音要清晰，否则系统无法识别）；
 
